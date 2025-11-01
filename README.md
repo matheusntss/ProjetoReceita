@@ -1,5 +1,5 @@
 # 🍽️ Página de Receitas
--# Aula de um curso fullstack da [Rocketseat](https://www.rocketseat.com.br)
+ - Aula de um curso fullstack da [Rocketseat](https://www.rocketseat.com.br)
 
 ## Receita de um Cupcake
 Nesse desafio proposto nas aulas de HTML e CSS foi proposto a criação de uma página de receitas de um Cupcake, um desáfio de nível iniciante mas que foi bem divertido. 
@@ -15,5 +15,5 @@ Nesse desafio proposto nas aulas de HTML e CSS foi proposto a criação de uma p
 ### 💻 Como Executar
 1. Clone o repositório  
    ```bash
-   [git clone https://github.com/seuusuario/pagina-de-receitas.git](https://github.com/matheusntss/ProjetoReceita.git)
+   https://github.com/matheusntss/ProjetoReceita.git
 
